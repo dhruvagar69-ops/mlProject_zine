@@ -9,3 +9,4 @@ distinguishing them from real human speech.
 DataSet used: https://www.kaggle.com/datasets/awsaf49/asvpoof-2019-dataset (ASVspoof 2019)
 
 Note: this is the new reposittory under the same name "mlProject_Zine", i have deleted previous repository.
+i have started using new repo because jupyter notebook was not able to handle the large no. of audio files
